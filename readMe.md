@@ -1,8 +1,7 @@
-Create new repository -
+---Create new repository -
 clone to local repositoy- copy url from git, open commnd promt 
 steps- 	1.-mkdir - cretaing folder 
-
-		2.-git clone - https://github.com/chauriya/GitPracticeSwa.git
+	2.-git clone - https://github.com/chauriya/GitPracticeSwa.git
 * command to chk git branches - ```git branch```	
 * command to chk branch status - ```git status```  
 
