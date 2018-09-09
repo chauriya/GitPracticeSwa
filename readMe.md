@@ -16,3 +16,12 @@ cmd - ```git diff ```
  git commit / Add files/ Commit files
 
  1.```git commit -m "COMMIT MESSAGE"```. 
+
+** add code to master branch
+ 1.```git push origin master``` 
+
+ **add new branch 
+ 1.```git checkout -b develop```
+
+ ** chk logs
+ 1.git log -1 / -2 /-5(Last 5 commits)
