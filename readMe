@@ -1,5 +1,18 @@
 Create new repository -
 clone to local repositoy- copy url from git, open commnd promt 
 steps- 	1.-mkdir - cretaing folder 
+
 		2.-git clone - https://github.com/chauriya/GitPracticeSwa.git
-command to chk git branches - "git branch"		
+* command to chk git branches - ```git branch```	
+* command to chk branch status - ```git status```  
+
+chk changes in file
+cmd - ```git diff ```
+
+** add files
+ 1. Add perticuler file -  Cmd - ```git add filename``` . eg  git add readme
+ 2. Add all files  - ```git add .``` 
+ 
+ git commit / Add files/ Commit files
+
+ 1.```git commit -m "COMMIT MESSAGE"```. 
